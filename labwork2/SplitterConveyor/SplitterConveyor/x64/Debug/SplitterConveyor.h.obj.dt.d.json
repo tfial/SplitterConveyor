@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\str\\labwork2\\splitterconveyor\\splitterconveyor.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\str\\include\\interface.h",
+            "c:\\str\\include\\nidaqmx.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\stdbool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

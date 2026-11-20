@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SplitterConveyor\\x64\\Debug\\SplitterConveyor.obj",
+            "outputs": [
+                "SplitterConveyor\\x64\\Debug\\SplitterConveyor.h.obj.dt.module.json",
+                "SplitterConveyor\\x64\\Debug\\SplitterConveyor.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

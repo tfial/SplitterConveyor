@@ -1,0 +1,10 @@
+﻿  splitter_conveyor_lowlevel.c
+  splitterconveyor_jni.c
+  Generating Code...
+C:\str\labwork2\SplitterConveyor\splitterconveyor_jni.c(39,5): warning C4013: 'cylinderStart_moveForward' undefined; assuming extern returning int
+C:\str\labwork2\SplitterConveyor\splitterconveyor_jni.c(43,5): warning C4013: 'cylinderStart_moveBackward' undefined; assuming extern returning int
+C:\str\labwork2\SplitterConveyor\splitterconveyor_jni.c(47,5): warning C4013: 'cylinderStart_stop' undefined; assuming extern returning int
+C:\str\labwork2\SplitterConveyor\splitterconveyor_jni.c(51,12): warning C4013: 'cylinderStart_getPosition' undefined; assuming extern returning int
+  SplitterConveyor.cpp
+     Creating library C:\str\labwork2\SplitterConveyor\x64\Debug\SplitterConveyor.lib and object C:\str\labwork2\SplitterConveyor\x64\Debug\SplitterConveyor.exp
+  SplitterConveyor.vcxproj -> C:\str\labwork2\SplitterConveyor\x64\Debug\SplitterConveyor.dll
